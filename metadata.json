@@ -1,0 +1,34 @@
+{
+    "name": "TiRiLi",
+    "symbol": "WIMM",
+    "description": "A unique stellar token with cosmic properties stored on IPFS",
+    "image": "ipfs://bafkreidoevapq3l43n3xtzsklbbphzuqvapvtrf52aahbjtnbfpaxvev5a",
+    "external_url": "https://your-website.com",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Stellar"
+        },
+        {
+            "trait_type": "Storage",
+            "value": "IPFS"
+        },
+        {
+            "trait_type": "Cosmic Power",
+            "value": "Infinite"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "type": "image/jpeg",
+                "uri": "ipfs://bafkreidoevapq3l43n3xtzsklbbphzuqvapvtrf52aahbjtnbfpaxvev5a"
+            }
+        ],
+        "category": "image"
+    }
+}
